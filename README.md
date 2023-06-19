@@ -1,4 +1,4 @@
-# Project URL - [url to hosted link (https://voluble-marigold-0c5280.netlify.app/)](url)
+# Project URL - https://voluble-marigold-0c5280.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
